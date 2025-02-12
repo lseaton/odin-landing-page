@@ -16,6 +16,7 @@ body {
 	flex-direction: column;
 	justify-content: space-between;
 	margin: 0;
+	background-color: var(--off-white);
 }
 
 ul {
@@ -33,7 +34,8 @@ p {
 
 a:hover,
 button,
-h1 {
+h1,
+h3 {
 	color: var(--off-white);
 }
 
@@ -53,8 +55,14 @@ h2 {
 	text-align: center;
 }
 
+h3 {
+	font-weight: 700;
+	font-size: 24px;
+}
+
 h1,
 h2,
+h3,
 p {
 	margin: 0;
 }
@@ -92,7 +100,6 @@ button {
 }
 
 .second-container {
-	background-color: var(--off-white);
 	padding: 50px 0px 75px 0px;
 }
 
@@ -137,4 +144,24 @@ button {
 	color: var(--dark-navy);
 	font-weight: 700;
 	text-align: right;
+}
+
+.fourth-container {
+	background-color: var(--blue);
+	margin: 80px 100px 80px 100px;
+	padding: 35px 150px 35px 150px;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+#sign-up-btn {
+	border-style: solid;
+	border-color: var(--off-white);
+}
+
+.footer {
+	background-color: var(--dark-navy);
+	text-align: center;
+	padding: 32px 0px 32px 0px;
 }
