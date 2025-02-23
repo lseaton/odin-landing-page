@@ -1,4 +1,4 @@
-<p>This is a practice landing page I completed for the Odin Project, doing my best to match their template. It uses only css and html.</p>
+<p>This is a practice landing page I completed for the Odin Project, doing my best to match their template. It uses css and html.</p>
 <p>See the live here: https://lseaton.github.io/odin-landing-page/index.<br><br></p>
 
 <p>Trout Fish Rainbow Trout by Clker-Free-Vector-Images on Pixabay</p>
